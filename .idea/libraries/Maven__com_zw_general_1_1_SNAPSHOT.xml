@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.zw:general:1.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/zw/general/1.1-SNAPSHOT/general-1.1-20190719.090302-36.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/zw/general/1.1-SNAPSHOT/general-1.1-20190719.090302-36-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/zw/general/1.1-SNAPSHOT/general-1.1-20190719.090302-36-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
