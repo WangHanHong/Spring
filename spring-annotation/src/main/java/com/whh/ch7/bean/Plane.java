@@ -3,6 +3,7 @@ package com.whh.ch7.bean;
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.ApplicationContextAware;
+import org.springframework.stereotype.Component;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
@@ -11,6 +12,7 @@ import javax.annotation.PreDestroy;
  * @author whh
  * @date 2019/8/5
  */
+@Component
 public class Plane implements ApplicationContextAware{
 
     private ApplicationContext applicationContext;
