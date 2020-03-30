@@ -3,7 +3,6 @@ package com.whh.ch3;
 import com.whh.ch1.Person;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.context.annotation.Scope;
 
 /**
  * @author whh
